@@ -1,8 +1,7 @@
 <ul>
  
  https://www.csc.lsu.edu/~chen/GreatPapers.html
- 
-  <li><b><a target="_blank" href="https://www.csc.lsu.edu/~chen/GreatPapers.html" style="text-decoration:none;"> GreatPapers </a></b></li>
+  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/gpc(1).pdf" style="text-decoration:none;"> On the Translation of Languages from Left to Right</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/gpc(2).pdf" style="text-decoration:none;">Cooperating sequential processes</a></b></li>  
